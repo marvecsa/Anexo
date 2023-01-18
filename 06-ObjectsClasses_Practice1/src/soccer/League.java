@@ -42,20 +42,6 @@ public class League {
         team2.playerArray[2] = new Player();
         team2.playerArray[2].playerName = "Alphonse Areola";
         
-        //player1.playerName = "Robert Service";
-        
-        /*
-        System.out.println(team1.teamName);
-        for (Player thePlayer: team1.playerArray){
-            System.out.println(thePlayer.playerName);
-        }
-
-        System.out.println(team2.teamName);
-        for (Player thePlayer: team2.playerArray){
-            System.out.println(thePlayer.playerName);
-        }
-        */
-        
         Game currGame = new Game();
         currGame.homeTeam = team1;
         currGame.awayTeam = team2;
