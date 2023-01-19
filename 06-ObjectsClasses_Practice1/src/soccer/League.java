@@ -27,12 +27,12 @@ public class League {
         Player[] thePlayers = { player1, player2, player3 };
         
         Team team1 = new Team();
-        team1.teamName = "ARGENTINA";
+        team1.teamName = "EQUIPO 1";
         team1.playerArray = thePlayers;
         
         // Create team2
         Team team2 = new Team();
-        team2.teamName = "FRANCIA";
+        team2.teamName = "EQUIPO 2";
         
         team2.playerArray = new Player[3];
         team2.playerArray[0] = new Player();
