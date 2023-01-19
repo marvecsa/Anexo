@@ -6,10 +6,6 @@
 
 package soccer;
 
-/**
- *
- * @author Desarrollo 01
- */
 public class League {
     public static void main(String[] args) {
         //TODO: code application logic here

@@ -6,10 +6,6 @@
 
 package soccer;
 
-/**
- *
- * @author Edgar Anaya
- */
 public class Goal {
     
     public Team theTeam;

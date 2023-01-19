@@ -6,10 +6,6 @@
 
 package soccer;
 
-/**
- *
- * @author Edgar Anaya
- */
 public class League {
     public static void main(String[] args) {
         //TODO: code application logic here
