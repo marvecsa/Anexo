@@ -4,11 +4,6 @@
  * and open the template in the editor.
  */
 
-  /*
-  * Autor: Edgar Anaya
-  * Fecha: 18.01.23
-  */
-
 package soccer;
 
 /**
