@@ -1,6 +1,6 @@
 /*
- * Autor: [nombre]
- * Fecha: [hoy]
+ * Autor: Edgar Anaya
+ * Fecha: 19.01.23
  */
 
 /*
