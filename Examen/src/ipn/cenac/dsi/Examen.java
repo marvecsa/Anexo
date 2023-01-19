@@ -6,7 +6,8 @@ package ipn.cenac.dsi;
 
 /**
  *
- * @author Desarrollo 01
+ * @author Edgar Anaya
+ * @fecha 19.01.23
  */
 public class Examen {
     public static void main (String args[]) {
